@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **SadiaNaveed/SadiaNaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,17 +26,11 @@ Here are some ideas to get you started:
 <img alt="Java"   align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 <a href="" target="_blank">
-<img alt="Kotlin" align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</a>
-<a href="" target="_blank">
 <img alt="PHP" align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </a>
 <img  width="47%"></p>
 
 ## Frame Works
-<a href="" target="_blank">
-<img alt="Android" align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
- </a>
 <a href="" target="_blank">
 <img alt="laravel" align="left" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 </a>
@@ -57,7 +50,7 @@ Here are some ideas to get you started:
 <img alt="mysql" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
 <a href="" target="_blank">
-<img alt="sqlite" align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="sqlite" align="left" src="https://img.shields.io/badge/postgresql%4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>
 <a href="" target="_blank">
 <img alt="heroku" align="left" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
