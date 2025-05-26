@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 <img alt="Java"   align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 <a href="" target="_blank">
+<img alt="HTML"   align="left" src="https://img.shields.io/badge/html-%23ED8B00.svg?style=for-the-badge&logo=html&logoColor=white"/>
+</a>
+<a href="" target="_blank">
+<img alt="CSS"   align="left" src="https://img.shields.io/badge/css-%23ED8B00.svg?style=for-the-badge&logo=css&logoColor=white"/>
+</a>
+<a href="" target="_blank">
+<img alt="JavaScript"   align="left" src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+</a>
+<a href="" target="_blank">
 <img alt="PHP" align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </a>
 <img  width="47%"></p>
