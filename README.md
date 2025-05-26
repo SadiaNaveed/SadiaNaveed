@@ -142,11 +142,6 @@ A passionate full-stack developer focused on building efficient and scalable web
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaNaveed&theme=radical" />
 
-<br><br>
-
 🤝 Feel free to reach out if you want to work together!
 <br><br>
 📫 How to reach me: [Email](mailto:sidra.sadia.ss@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sadia-naveed-sheikh/)
-
-
-
