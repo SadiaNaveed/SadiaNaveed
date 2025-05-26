@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Sadia Naveed! :wave:
+A passionate full-stack developer focused on building efficient and scalable web applications.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SadiaNaveed&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaNaveed&layout=compact"/>
-<img  width="47%"></p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaNaveed&theme=radical" />
 <img  width="47%"></p>
 
 ## Languages & Technologies
@@ -82,15 +80,15 @@ Here are some ideas to get you started:
 ## Cloud & Server Tools
 
 <a href="#">
-  <img alt="Linux" align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</a>
-
-<a href="#">
   <img alt="Heroku" align="left" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </a>
 
 <a href="#">
   <img alt="Google Cloud" align="left" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img alt="Linux" align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </a>
 
 <br><br>
@@ -118,6 +116,8 @@ Here are some ideas to get you started:
 ## 🏆 Achievements
 - Cisco Certification – [View on Credly](https://www.credly.com/users/sadia-naveed.ad2ee6cb)
 
+<br><br>
+
 ## Social
 
 <a href="#" target="_blank">
@@ -140,7 +140,14 @@ Here are some ideas to get you started:
   <img alt="Twitter" align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
+<br><br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaNaveed&theme=radical" />
+
+<br><br>
+
+🤝 Feel free to reach out if you want to work together!
+📫 How to reach me: [Email](mailto:sidra.sadia.ss@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sadia-naveed-sheikh/)
 
 
 
