@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SadiaNaveed&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaNaveed&layout=compact"/>
-<img  width="87%"></p>
+<br><br>
 
 ## Languages & Technologies
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img alt="Java" align="left" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
 
-<img  width="47%"></p>
+<br><br>
 
 ## Frameworks
 
@@ -58,8 +58,7 @@ Here are some ideas to get you started:
   <img alt="Express.js" align="left" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
 </a>
 
-<img  width="47%"></p>
-
+<br><br>
 
 ## Databases
 
@@ -75,7 +74,7 @@ Here are some ideas to get you started:
   <img alt="MongoDB" align="left" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 
-<img  width="27%"></p>
+<br><br>
 
 ## Cloud & Server Tools
 
@@ -91,7 +90,7 @@ Here are some ideas to get you started:
   <img alt="Google Cloud" align="left" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </a>
 
-<img  width="27%"></p>
+<br><br>
 
 ## Forums
 
