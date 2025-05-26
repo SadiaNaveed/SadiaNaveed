@@ -116,8 +116,6 @@ A passionate full-stack developer focused on building efficient and scalable web
 ## 🏆 Achievements
 - Cisco Certification – [View on Credly](https://www.credly.com/users/sadia-naveed.ad2ee6cb)
 
-<br><br>
-
 ## Social
 
 <a href="#" target="_blank">
@@ -147,6 +145,7 @@ A passionate full-stack developer focused on building efficient and scalable web
 <br><br>
 
 🤝 Feel free to reach out if you want to work together!
+<br><br>
 📫 How to reach me: [Email](mailto:sidra.sadia.ss@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sadia-naveed-sheikh/)
 
 
