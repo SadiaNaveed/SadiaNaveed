@@ -112,6 +112,9 @@ Here are some ideas to get you started:
 
 <br><br>
 
+## 🏆 Achievements
+- Cisco Certification – [View on Credly](https://www.credly.com/users/sadia-naveed.ad2ee6cb)
+
 ## Social
 
 <a href="#" target="_blank">
