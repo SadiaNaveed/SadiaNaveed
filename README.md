@@ -22,21 +22,27 @@ Here are some ideas to get you started:
 
 ## More
 ## Languages
-<a href="" target="_blank">
-<img alt="Java"   align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+
+<a href="#" target="_blank">
+  <img alt="Java" align="left" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
-<a href="" target="_blank">
-<img alt="HTML"   align="left" src="https://img.shields.io/badge/html-%23ED8B00.svg?style=for-the-badge&logo=html&logoColor=white"/>
+
+<a href="#" target="_blank">
+  <img alt="HTML5" align="left" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
-<a href="" target="_blank">
-<img alt="CSS"   align="left" src="https://img.shields.io/badge/css-%23ED8B00.svg?style=for-the-badge&logo=css&logoColor=white"/>
+
+<a href="#" target="_blank">
+  <img alt="CSS3" align="left" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
-<a href="" target="_blank">
-<img alt="JavaScript"   align="left" src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<a href="#" target="_blank">
+  <img alt="JavaScript" align="left" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
-<a href="" target="_blank">
-<img alt="PHP" align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+
+<a href="#" target="_blank">
+  <img alt="PHP" align="left" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </a>
+
 <img  width="47%"></p>
 
 ## Frame Works
